@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nekehofafene.pages.dev/sitemap.xml
